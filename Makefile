@@ -1,2 +1,2 @@
 run:
-	./run.sh
+	sh run.sh
