@@ -181,8 +181,7 @@ return [
         Arcanedev\LogViewer\LogViewerServiceProvider::class,
 
         //Mongo DB
-        Jenssegers\Mongodb\MongodbServiceProvider::class,
-
+        MongoDB\Laravel\MongoDBServiceProvider::class,
     ],
 
     /*
